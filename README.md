@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/samowola_logo.png" width="300">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/samowola_logo.png" width="40%">
 </p>
 
 ## About the project
@@ -11,7 +11,7 @@ without permission.
 Let's see what the statistics say.
 
 <p align="center">
-<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/legalisations.png" width="300">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/legalisations.png" width="90%">
 </p>
 
 _Source: Main Construction Supervision Office_ [[1]](http://www.gunb.gov.pl/)
