@@ -12,9 +12,9 @@ Let's see what the statistics say.
 
 <p align="center">
 <img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/legalisations.png" width="90%">
-</p>
 
 _Source: Main Construction Supervision Office_ [[1]](http://www.gunb.gov.pl/)
+</p>
 
 Are these numbers impressive? Let's take a closer look at the problem.
 
