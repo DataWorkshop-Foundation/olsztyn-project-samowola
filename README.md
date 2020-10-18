@@ -20,10 +20,11 @@ Are these numbers impressive? Let's take a closer look at the problem.
 
 In 2011, aerial photos were taken in Gliwice (Poland), with the help of which the legal analysis of the buildings was 
 conducted. The results are shocking - 1374 discrepancies were detected, of which 454 were removed and 473 objects were 
-modified [2]. The lowest cost of legalizing a building is PLN 2,500, so the profit for the commune from the regulation 
+modified [[2]](http://www.rp.pl/artykul/723617-Zdjecia-lotnicze-ulatwiaja-wykrycie-samowoli-budowlanych.html/). 
+The lowest cost of legalizing a building is PLN 2,500, so the profit for the commune from the regulation 
 of discrepancies is huge. If we subtract the modifications and removed objects and take into account the lowest cost of 
 legalization, it can be quickly recalculated that PLN 1,117,500 was received in the budget of Gliwice. If we calculate 
-it according to the price list from 2017 [3], then for this amount it is possible to build a pavement with a length of 
+it according to the price list from 2017 [[3]](http://gliwice.eu/sites/default/files/imce/koszty2.pdf), then for this amount it is possible to build a pavement with a length of 
 about 4.5 km.
 
 The results of this project clearly show that the number of abnormalities detected and the official data are only a 
