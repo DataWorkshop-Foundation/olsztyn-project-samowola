@@ -42,7 +42,7 @@ Registry, orthophotomap images or satellite photos. The algorithm uses a trained
 (segment) building objects, verifies their existence in the official database, and then marks any deviations with the 
 given parameters.
 
-[Want to find out about the details of the illegal building detection process?](https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/blob/main/about/README.md)
+[Want to find out about the details of the illegal building detection process?](https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/blob/main/about/)
 
 
 ## Disclaimer 

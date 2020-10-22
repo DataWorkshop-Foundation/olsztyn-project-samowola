@@ -31,3 +31,23 @@ prediction by 1/3.
 prepared with the use of [Plotly](https://plotly.com/) and [Dash](https://plotly.com/dash/) libraries.
 
 **Importantly, only free tools and data sources were used in the process of creating the project.**
+
+## Examples
+
+Below, we present some examples of our model predictions - both those we are proud of and other that we still have to 
+work on. ;)
+
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_001.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_002.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_003.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_004.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_005.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_006.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_007.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_008.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_009.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_010.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_011.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_012.png">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/example_plots/example_013.png">
+
