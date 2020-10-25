@@ -1,10 +1,3 @@
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/DataWorkshop-Foundation/olsztyn-project-samowola/main/about/project_workflow_pl.pdf">
-<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/samowola_workflow.png" width="90%">
-</a>
-</p>
-
 ## Project tasks
 
 <img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/nr_1.png" width="50px">
@@ -34,10 +27,17 @@ result over 0.78.
 * The final model was compressed using 
 [Tensorflow Lite](https://www.tensorflow.org/lite/convert), which allowed to reduce the amount of memory needed for 
 prediction by 1/3.
-* A sample of the possibilities along with the visualization of the results is presented by a simple demo-application 
-prepared with the use of [Plotly](https://plotly.com/) and [Dash](https://plotly.com/dash/) libraries.
+* A sample of the possibilities along with the visualization of the results is presented by a simple 
+[demo-application](http://samowola.herokuapp.com/) prepared with the use of [Plotly](https://plotly.com/) and 
+[Dash](https://plotly.com/dash/) libraries.
 
 **Importantly, only free tools and data sources were used in the process of creating the project.**
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/DataWorkshop-Foundation/olsztyn-project-samowola/main/about/project_workflow_pl.pdf">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/samowola_workflow.png" width="80%">
+</a>
+</p>
 
 ## Examples
 
