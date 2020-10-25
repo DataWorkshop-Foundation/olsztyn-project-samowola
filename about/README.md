@@ -1,3 +1,10 @@
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/DataWorkshop-Foundation/olsztyn-project-samowola/main/about/project_workflow_pl.pdf">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/samowola_workflow.png" width="90%">
+</a>
+</p>
+
 ## Project tasks
 
 <img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/nr_1.png" width="50px">
