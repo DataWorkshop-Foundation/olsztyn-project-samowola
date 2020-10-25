@@ -12,7 +12,7 @@ some image transformations, a binary mask was prepared for each location, deline
     
 <img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/nr_2.png" width="50px">
 
-**Development of a building segmentation model.** 
+**[Development of a building segmentation model.](https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/blob/main/about/notebooks/2_building_unet_model.ipynb)** 
 
 * We conducted a series of experiments, during which we checked approx. 30 architectures, parameters and variants of 
 deep neural network training.
