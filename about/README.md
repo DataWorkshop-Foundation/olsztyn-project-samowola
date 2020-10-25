@@ -2,7 +2,7 @@
 
 <img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/nr_1.png" width="50px">
 
-**Gathering and pre-processing of data.**
+**[Gathering and pre-processing of data.](https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/blob/main/about/notebooks/1_gathering_data.ipynb)**
 
 * We have developed an original - and more importantly, automated - method of acquisition and preparation of training data. 
 * Using publicly available resources, we have collected
