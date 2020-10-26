@@ -34,8 +34,8 @@ prediction by 1/3.
 **Importantly, only free tools and data sources were used in the process of creating the project.**
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/DataWorkshop-Foundation/olsztyn-project-samowola/main/about/project_workflow_pl.pdf">
-<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/samowola_workflow.png" width="80%">
+<a href="https://raw.githubusercontent.com/DataWorkshop-Foundation/olsztyn-project-samowola/main/about/project_workflow_en.pdf">
+<img src="https://github.com/DataWorkshop-Foundation/olsztyn-project-samowola/raw/main/img/samowola_workflow_en.png" width="80%">
 </a>
 </p>
 
